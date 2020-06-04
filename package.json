@@ -3,9 +3,14 @@
 	"displayName": "Demo",
 	"description": "demo description",
 	"version": "0.0.1",
+	"publisher": "dvinnik",
 	"engines": {
 		"vscode": "^1.45.0"
 	},
+	"repository": {
+      "type": "git",
+      "url": "https://github.com/dmitryvinn/vs-extension-demo.git"
+    },
 	"categories": [
 		"Other"
 	],
